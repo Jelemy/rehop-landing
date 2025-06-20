@@ -150,7 +150,7 @@ function Dashboard() {
             <div className="w-full flex justify-center">
               <div className="aspect-square h-[43vh] min-h-[200px] max-h-[650px]">
                 <DotLottieReact
-                  src="/assets/frog-idle.lottie"
+                  src={`${process.env.PUBLIC_URL}/assets/frog-idle.lottie`}
                   loop
                   autoplay
                   style={{ width: '100%', height: '100%' }}
