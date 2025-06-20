@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rehop-landing/static/css/main.3e487b42.css",
+    "main.js": "/rehop-landing/static/js/main.c649e6b8.js",
+    "static/media/logo.svg": "/rehop-landing/static/media/logo.12abbdf3bd50e667307c79fc7f13e75c.svg",
+    "static/media/conspiracy.svg": "/rehop-landing/static/media/conspiracy.f3407dca0ace163a40a9054624fa5f66.svg",
+    "static/media/bulletin.svg": "/rehop-landing/static/media/bulletin.4051fda45ba1c1da130a4285ef6a2ca6.svg",
+    "static/media/small-logo.svg": "/rehop-landing/static/media/small-logo.8813312bd5eb0520d7f5e2bb1733c94e.svg",
+    "index.html": "/rehop-landing/index.html",
+    "main.3e487b42.css.map": "/rehop-landing/static/css/main.3e487b42.css.map",
+    "main.c649e6b8.js.map": "/rehop-landing/static/js/main.c649e6b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e487b42.css",
+    "static/js/main.c649e6b8.js"
+  ]
+}
