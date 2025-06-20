@@ -8,7 +8,7 @@ function App() {
       <NavBar />
       <div className="flex-1">
         <Routes>
-          <Route path="/" element={<Landing />} /> 
+          <Route path="/rehop-landing" element={<Landing />} /> 
         </Routes>
       </div>
     </div>
