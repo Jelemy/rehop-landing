@@ -2,6 +2,10 @@
 
 A conceptual landing page for a hypothetical social networking app built around side quests community interaction and an office frog mascot.
 
+## Demo
+
+[Live Site](https://jelemy.github.io/rehop-landing)
+
 ## Project Goals
 
 The main goals of this project were:
@@ -25,7 +29,4 @@ The main goals of this project were:
   <img src="./screenshots/screenshot4.png" alt="Screenshot 4" width="600" />
 </div>
 
-## Demo
-
-[Live Site](https://jelemy.github.io/rehop-landing)
 ---
