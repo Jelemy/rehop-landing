@@ -8,20 +8,15 @@ The main goals of this project were:
 
 - To explore **Framer Motion** for a custom typewriter-like text rendering effect.
 - To experiment with **Lottie** for lightweight, vector-based animations.
-- To deploy a sleek landing experience that reflects the app’s quirky personality.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **React**
 - **TailwindCSS**
 - **Framer Motion**
 - **LottieFiles** (`@lottiefiles/dotlottie-react`) for vector animations
 
-## 🌐 Demo
-
-[Live Site](https://jelemy.github.io/rehop-landing)
-
-## 📸 Screenshots
+## Screenshots
 
 <div align="center">
   <img src="./screenshots/screenshot1.png" alt="Screenshot 1" width="600" />
@@ -30,4 +25,7 @@ The main goals of this project were:
   <img src="./screenshots/screenshot4.png" alt="Screenshot 4" width="600" />
 </div>
 
+## Demo
+
+[Live Site](https://jelemy.github.io/rehop-landing)
 ---
